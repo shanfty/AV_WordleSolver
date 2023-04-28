@@ -3,6 +3,7 @@
 Vanderbilt University M.S of Computer Science | Automated Verification | CS 6315 | Spring 2023
 
 # Instructions
+
 Run the AV_WordleSolver.py
 
 Add the following code to the python envinronment: PYDEVD_WARN_SLOW_RESOLVE_TIMEOUT = 3.

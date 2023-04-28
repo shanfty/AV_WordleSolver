@@ -56,7 +56,7 @@ def addCorrectLetter(solver, letters, letter, position):
     return solver
 
 if __name__ == "__main__":
-    
+
     print("Loading possible words, please wait...")
 
     with open('wordList.txt') as f:

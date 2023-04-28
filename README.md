@@ -13,3 +13,6 @@ The program will then give me the next best guess using a Z3 solver for the user
 
 # Example
 If the worlde word is 'apple' and my first guess is 'plate', I would enter feedback of 'yyyxg'
+
+# References
+List of wordle words found here: https://github.com/tabatkins/wordle-list

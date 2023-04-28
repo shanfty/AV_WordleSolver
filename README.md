@@ -5,6 +5,7 @@ Vanderbilt University M.S of Computer Science | Automated Verification | CS 6315
 # Instructions
 Run the AV_WordleSolver.py
 Add the following code to the python envinronment: PYDEVD_WARN_SLOW_RESOLVE_TIMEOUT = 3.
+
 The program will give the user a random first guess based on the words in the words.txt file.
 The user will enter that word in wordle then give the program feedback based on the results.
 If the letter is gray or not found in the word, the correct feedback would be 'x'.

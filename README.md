@@ -1,8 +1,6 @@
 # AV_WordleSolver
 
-Vanderbilt University M.S of Computer Science
-Automated Verification
-CS 6315 Spring 2023
+Vanderbilt University M.S of Computer Science | Automated Verification | CS 6315 | Spring 2023
 
 # Instructions
 Run the AV_WordleSolver.py
